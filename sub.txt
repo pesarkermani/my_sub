@@ -1,4 +1,3 @@
-vless://02086bdd-39e9-4b86-abdc-33d63c62d9e3@snapp.ir:80?type=ws&path=%2F&host=simorgh.darerio.ir&security=none#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A10041.0ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 socks://Og@79.175.177.96:1080#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A722.46ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://ad19fcd9-65a8-49e2-bb23-2ce2e5cc5007@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%A7%F0%9F%87%ACBulgaria%2C%20Sofia%20%7C%20%F0%9F%8C%90%20IP%3A%20216.147.121.110%20%7C%20%E2%8F%B3ping%3A401.0ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://e09ce8d6-1a3f-4499-a6de-123ac5a18cfe@snapp.ir:2082?encryption=none&host=sub2.pavps.ir&path=%2Fv&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye%2C%20Istanbul%20%7C%20%F0%9F%8C%90%20IP%3A%20213.142.156.84%20%7C%20%E2%8F%B3ping%3A1299.56ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
