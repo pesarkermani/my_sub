@@ -1,4 +1,4 @@
-vless://55d01c43-70fc-44e4-852b-b0bc7e0e40da@snapp.ir:80?encryption=none&host=sep1997.softnetconnect.ir&path=%2F&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A1662.89ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+vless://55d01c43-70fc-44e4-852b-b0bc7e0e40da@snapp.ir:80?encryption=none&host=sep1997.softnetconnect.ir&path=%2F&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4708.61ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://9130a3af-a2f2-46f6-9f4e-53ec8a71e22d@185.143.233.122:80?path=%2F&security=none&encryption=none&host=ira.helexu.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A7827.39ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://4ced10f4-893c-40eb-8508-5a22b9d69ef1@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3385.41ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://f1a1221a-0a6a-4cd7-863a-4b0678dcbcf8@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4296.12ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
@@ -69,6 +69,7 @@ vless://6d446269-5971-47a7-af57-763e96dd2e05@free.jibjob.mom:8880?path=%2F&secur
 vless://96b72298-278b-4560-b601-1347bf5c28c5@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A6%F0%9F%87%BAAustralia%20%7C%20%F0%9F%8C%90%20IP%3A%20185.113.10.88%20%7C%20%E2%8F%B3ping%3A2472.26ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://3af97d4f-da30-4c31-8161-597944da644f@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A2539.42ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://a8b3411b-b35b-4bc5-b971-c88f114dcc95@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A2701.5ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+vless://398e2932-2731-4084-85e5-8c40b872fb08@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A2706.96ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 socks://5.190.90.165:10809#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Nuremberg%20%7C%20IP%3A%202a01%3A4f8%3A1c19%3A4cd6%3A%3A1%20%7C%20ping%3A5965ms%20%7C%20%40NamazVPN
 http://5.190.90.165:10809#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Nuremberg%20%7C%20IP%3A%202a01%3A4f8%3A1c19%3A4cd6%3A%3A1%20%7C%20ping%3A5226ms%20%7C%20%40NamazVPN
 socks://5.190.247.76:1080#5.190.247.76%20%7C%20IP%3A%205.190.247.76%20%7C%20ping%3A9258ms%20%7C%20%40NamazVPN
