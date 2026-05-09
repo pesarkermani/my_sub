@@ -1,4 +1,3 @@
-vless://bf98bd37-5671-4c36-99c6-5db134836d99@miller.iransatellite.net:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A5514.61ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://0a9afaf5-f4bf-4bee-a414-12ffc04779cc@185.143.233.5:2086?path=%2F&security=&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A1357.38ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJob3N0IjoiczEueWF6ZGZhMy5pciIsImlkIjoiN2NjN2FjMjktMmRmZS00M2U0LWE5YTktNjAxNTJmNGJmY2MzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJVbmtub3duIHwg8J+MkCBJUDogTi9BIHwg4o+zcGluZzo5NjUyLjFtcyB8IPCfk6IgQE5hbWF6VlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://dcbe5a06-1a72-4961-944d-43d28853102c@ev4.lifeekala.ir:80?path=%2F&security=none&encryption=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A6770.82ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
@@ -67,3 +66,10 @@ vless://d214fde1-e3a5-48cb-84f8-99dd7dd00909@anten.ir:80?type=ws&encryption=none
 vless://166436dc-cb82-445a-9972-9b7010cf8b78@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4232.66ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://ded3d307-c6cc-4f7c-afda-13f12c80b371@185.143.233.200:8080/?type=ws&encryption=none&path=%2F&host=m.supreme-xfast.ir&security=none#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A1488.44ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A5546.87ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+vless://f68da012-3337-494d-81d9-7b83397738e4@snapp.ir:80?encryption=none&host=biawban.yeksancloud.ir&path=%2F&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A10077.49ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+socks://5.190.90.165:10809#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Nuremberg%20%7C%20IP%3A%202a01%3A4f8%3A1c19%3A4cd6%3A%3A1%20%7C%20ping%3A5965ms%20%7C%20%40NamazVPN
+http://5.190.90.165:10809#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Nuremberg%20%7C%20IP%3A%202a01%3A4f8%3A1c19%3A4cd6%3A%3A1%20%7C%20ping%3A5226ms%20%7C%20%40NamazVPN
+socks://5.190.247.76:1080#5.190.247.76%20%7C%20IP%3A%205.190.247.76%20%7C%20ping%3A9258ms%20%7C%20%40NamazVPN
+socks://5.202.105.27:1082#5.202.105.27%20%7C%20IP%3A%205.202.105.27%20%7C%20ping%3A6186ms%20%7C%20%40NamazVPN
+http://5.202.120.92:8080#5.202.120.92%20%7C%20IP%3A%205.202.120.92%20%7C%20ping%3A531ms%20%7C%20%40NamazVPN
+http://5.202.120.123:3128#5.202.120.123%20%7C%20IP%3A%205.202.120.123%20%7C%20ping%3A3126ms%20%7C%20%40NamazVPN
