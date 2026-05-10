@@ -73,6 +73,5 @@ vless://9b0b41ad-7ecd-4291-ba00-e9b23625874c@2.144.21.201:6003?security=none&enc
 vless://8e851df5-9dbb-46bd-acd5-d6d774e38889@snapp.ir:80?path=%2F&security=none&encryption=none&host=biawban.yeksancloud.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A8894.92ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://8e851df5-9dbb-46bd-acd5-d6d774e38889@snapp.ir:80?path=/&security=none&encryption=none&host=biawban.yeksancloud.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A10859.15ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://c6229ae6-92e7-4ac1-addb-4ff94703a427@185.208.149.142:9506?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20IP%3A%20103.215.239.253%20%7C%20%E2%8F%B3ping%3A409.15ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
-http://2.144.129.218:8085#%F0%9F%87%AF%F0%9F%87%B5Japan%2C%20Tokyo%20%7C%20IP%3A%20172.104.106.164%20%7C%20ping%3A7848ms%20%7C%20%40NamazVPN
 socks://193.151.134.45:50000#193.151.134.45%20%7C%20IP%3A%20193.151.134.45%20%7C%20ping%3A857ms%20%7C%20%40NamazVPN
 http://193.151.134.45:50000#193.151.134.45%20%7C%20IP%3A%20193.151.134.45%20%7C%20ping%3A644ms%20%7C%20%40NamazVPN
