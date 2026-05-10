@@ -77,3 +77,4 @@ vless://fee4dd67-a4ed-446d-add2-3615d1c8d40d@SnaPp.ir:2082?path=%2F&security=non
 vless://0453377a-05d7-4fcd-8204-d5c88470d206@app.palmal.site:36517?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20IP%3A%202a03%3Ab0c0%3A3%3Af0%3A0%3A2%3A6172%3A3000%20%7C%20%E2%8F%B3ping%3A2231.96ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://2eaac3c3-a369-41a6-83fe-74e44bc68222@snapp.ir:2086?encryption=none&host=shargh.hajimmdbrc.ir&path=%2F&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3329.31ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 http://2.144.129.218:8085#%F0%9F%87%AF%F0%9F%87%B5Japan%2C%20Tokyo%20%7C%20IP%3A%20172.104.106.164%20%7C%20ping%3A7848ms%20%7C%20%40NamazVPN
+socks://193.151.134.45:50000#193.151.134.45%20%7C%20IP%3A%20193.151.134.45%20%7C%20ping%3A857ms%20%7C%20%40NamazVPN
