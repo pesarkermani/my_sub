@@ -1,4 +1,3 @@
-vless://d37b09ba-1a9e-4e53-a70a-b901cc9b5e4f@varzesh3.com:8080?path=/&security=none&encryption=none&host=en1.zivaroq.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20%7C%20%F0%9F%8C%90%20IP%3A%20185.204.168.36%20%7C%20%E2%8F%B3ping%3A1719.26ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://45b8578f-d680-485e-b91e-f08f398f92a1@SnaPp.ir:2082?security=none&type=ws&headerType=&path=%2F&host=Super.mobilesubasa.com#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A644.07ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://45b8578f-d680-485e-b91e-f08f398f92a1@SnaPp.ir:2082?security=none&type=ws&headerType=&path=/&host=Super.mobilesubasa.com#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A927.99ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A10471.62ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
@@ -74,6 +73,7 @@ vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80/?type=ws&
 vless://2d12063d-02e7-41e9-b619-5089fdc49d74@snapp.ir:80?encryption=none&host=api.sobhan.cam&path=%2F&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A6170.52ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://238a8c40-8413-4321-aaa8-990c4dcb04c6@185.143.233.122:443?security=tls&type=ws&headerType=&path=%2Fws&host=vip2.tu5pars.ir&sni=vip2.tu5pars.ir&fp=&allowInsecure=1#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A10077.8ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://3df5aa2b-d975-4719-bd88-3fe68284c8d8@snapp.ir:80?encryption=none&security=none&type=ws&path=%2F&host=Erajkhan.softnetconnect.ir#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A9044.16ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+vless://1efb08e3-4a56-488c-bf52-24f68d794bb5@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cdn.welovegod.top&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A1900.24ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 http://193.151.131.61:1111#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Frankfurt%20am%20Main%20%7C%20IP%3A%20185.213.155.213%20%7C%20ping%3A5766ms%20%7C%20%40NamazVPN
 http://37.32.15.5:9005#37.32.15.5%20%7C%20IP%3A%2037.32.15.5%20%7C%20ping%3A8139ms%20%7C%20%40NamazVPN
 socks://37.32.15.65:50148#37.32.15.65%20%7C%20IP%3A%2037.32.15.65%20%7C%20ping%3A7765ms%20%7C%20%40NamazVPN
