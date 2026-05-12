@@ -75,3 +75,4 @@ vless://95b9321e-1eff-4cb5-a74e-856a70724683@varzesh3.com:80?type=ws&encryption=
 vless://4b506123-3d41-4d5b-b5ae-00debe145d68@185.143.233.5:2083?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3315.87ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 http://193.151.131.61:1111#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Frankfurt%20am%20Main%20%7C%20IP%3A%20185.213.155.213%20%7C%20ping%3A5766ms%20%7C%20%40NamazVPN
 http://37.32.15.5:9005#37.32.15.5%20%7C%20IP%3A%2037.32.15.5%20%7C%20ping%3A8139ms%20%7C%20%40NamazVPN
+socks://37.32.15.65:50148#37.32.15.65%20%7C%20IP%3A%2037.32.15.65%20%7C%20ping%3A7765ms%20%7C%20%40NamazVPN
