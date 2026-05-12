@@ -1,4 +1,3 @@
-vless://42fb754b-c5ee-41ce-905c-a78182f21056@r.jblserver.ir:2082/?type=ws&encryption=none&path=%2F&host=r.jblserver.ir&security=none#%F0%9F%87%A9%F0%9F%87%AAGermany%20%7C%20%F0%9F%8C%90%20IP%3A%20185.204.168.103%20%7C%20%E2%8F%B3ping%3A1799.09ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 trojan://o3xQGNh2mT@snapp.ir:80?type=ws&path=%2Fwikipediad&host=dtspace.mastershance.ir&security=none#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A853.7ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://0541b6dd-914f-48dc-a3d8-4f8e4e6fd85f@ursa.pardazwe.ir:2052?path=%2F&security=&encryption=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3983.44ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
 vless://0541b6dd-914f-48dc-a3d8-4f8e4e6fd85f@ursa.pardazwe.ir:2052?path=/&security=&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye%20%7C%20%F0%9F%8C%90%20IP%3A%20213.142.134.161%20%7C%20%E2%8F%B3ping%3A5370.58ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
