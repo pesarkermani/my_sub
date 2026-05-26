@@ -1,5 +1,0 @@
-*.backup
-*.log
-*.tmp
-update_sub.py
-subscription_server.py
