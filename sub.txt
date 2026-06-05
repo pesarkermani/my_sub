@@ -1,3 +1,6 @@
+http://201.71.24.65:8082#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20Pesqueira%20%7C%20%E2%8F%B14778ms%20%7C%20%E2%9A%A1101KB%2Fs%20%7C%20%40NamazVPN
+http://201.62.125.142:8080#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20Rio%20Claro%20%7C%20%E2%8F%B19738ms%20%7C%20%E2%9A%A172KB%2Fs%20%7C%20%40NamazVPN
+http://201.230.121.86:999#%F0%9F%87%B5%F0%9F%87%AA%20Peru%20Abancay%20%7C%20%E2%8F%B12134ms%20%7C%20%E2%9A%A1236KB%2Fs%20%7C%20%40NamazVPN
 http://200.34.227.28:8080#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20Igrejinha%20%7C%20%E2%8F%B14431ms%20%7C%20%E2%9A%A1111KB%2Fs%20%7C%20%40NamazVPN
 http://2.27.50.150:8080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20Helsinki%20%7C%20%E2%8F%B1535ms%20%7C%20%E2%9A%A1370KB%2Fs%20%7C%20%40NamazVPN
 http://199.127.62.89:3129#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%20Buenos%20Aires%20%7C%20%E2%8F%B11214ms%20%7C%20%E2%9A%A1419KB%2Fs%20%7C%20%40NamazVPN
@@ -495,6 +498,3 @@ vless://4ce84bfe-8eda-4aa9-9a28-a91cbd1b59ad@panels2.airboxvip.top:4028?security
 vless://a3aa193c-59d8-443a-a8fa-4c627933b9a9@ca2.iranmomas.de:4020?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=cw3LrGmQw06DWa3o5nRTZKzXjA2zPbRQ69FvKmv0nxg&sid=3bec2937ffa88b18#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Montreal%20%7C%20%E2%8F%B1885ms%20%7C%20%E2%9A%A1497KB%2Fs%20%7C%20%40NamazVPN
 vless://a3aa193c-59d8-443a-a8fa-4c627933b9a9@ger2.iranmomas.de:4020?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=cw3LrGmQw06DWa3o5nRTZKzXjA2zPbRQ69FvKmv0nxg&sid=3bec2937ffa88b18#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1446ms%20%7C%20%E2%9A%A11.2MB%2Fs%20%7C%20%40NamazVPN
 vless://4ce84bfe-8eda-4aa9-9a28-a91cbd1b59ad@panels2.airboxvip.top:4028?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Charlotte%20%7C%20%E2%8F%B1595ms%20%7C%20%E2%9A%A1464KB%2Fs%20%7C%20%40NamazVPN
-vless://0af92958-4ed7-4e66-b5a9-952ef155d57c@162.19.181.33:443?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%E2%8F%B1303ms%20%7C%20%E2%9A%A11.3MB%2Fs%20%7C%20%40NamazVPN
-http://116.80.48.138:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shinjuku%20%7C%20%E2%8F%B14297ms%20%7C%20%E2%9A%A1162KB%2Fs%20%7C%20%40NamazVPN
-vless://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1709ms%20%7C%20%E2%9A%A1770KB%2Fs%20%7C%20%40NamazVPN
