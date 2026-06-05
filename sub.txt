@@ -1,3 +1,8 @@
+http://203.146.80.235:8080#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20Udon%20Thani%20%7C%20%E2%8F%B11198ms%20%7C%20%E2%9A%A1291KB%2Fs%20%7C%20%40NamazVPN
+http://202.58.66.10:8181#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Wonogiri%20%7C%20%E2%8F%B17640ms%20%7C%20%E2%9A%A1103KB%2Fs%20%7C%20%40NamazVPN
+http://202.57.25.42:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Malang%20%7C%20%E2%8F%B11094ms%20%7C%20%E2%9A%A1331KB%2Fs%20%7C%20%40NamazVPN
+http://202.179.2.250:8080#%F0%9F%87%B2%F0%9F%87%B3%20Mongolia%20Ulan%20Bator%20%7C%20%E2%8F%B17903ms%20%7C%20%E2%9A%A168KB%2Fs%20%7C%20%40NamazVPN
+http://202.154.18.20:9122#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Lamongan%20%7C%20%E2%8F%B13208ms%20%7C%20%E2%9A%A1199KB%2Fs%20%7C%20%40NamazVPN
 http://201.71.24.65:8082#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20Pesqueira%20%7C%20%E2%8F%B14778ms%20%7C%20%E2%9A%A1101KB%2Fs%20%7C%20%40NamazVPN
 http://201.62.125.142:8080#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20Rio%20Claro%20%7C%20%E2%8F%B19738ms%20%7C%20%E2%9A%A172KB%2Fs%20%7C%20%40NamazVPN
 http://201.230.121.86:999#%F0%9F%87%B5%F0%9F%87%AA%20Peru%20Abancay%20%7C%20%E2%8F%B12134ms%20%7C%20%E2%9A%A1236KB%2Fs%20%7C%20%40NamazVPN
@@ -493,8 +498,3 @@ vless://1da09875-d12a-443e-a5c2-766f6a422585@185.143.233.122:443?path=%2F&securi
 vless://95725d21-3c9d-4b06-a1da-a409ea55d95e@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1413ms%20%7C%20%E2%9A%A1893KB%2Fs%20%7C%20%40NamazVPN
 vless://c8a7a770-0761-4333-a3d3-e01494f8b6ba@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1408ms%20%7C%20%E2%9A%A1904KB%2Fs%20%7C%20%40NamazVPN
 vless://f8d2804c-5446-4f03-84b4-b4a085855ea3@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1408ms%20%7C%20%E2%9A%A1869KB%2Fs%20%7C%20%40NamazVPN
-http://117.236.124.166:3128#%F0%9F%87%AE%F0%9F%87%B3%20India%20Gandhinagar%20%7C%20%E2%8F%B1971ms%20%7C%20%E2%9A%A1444KB%2Fs%20%7C%20%40NamazVPN
-vless://4ce84bfe-8eda-4aa9-9a28-a91cbd1b59ad@panels2.airboxvip.top:4028?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Charlotte%20%7C%20%E2%8F%B1673ms%20%7C%20%E2%9A%A1348KB%2Fs%20%7C%20%40NamazVPN
-vless://a3aa193c-59d8-443a-a8fa-4c627933b9a9@ca2.iranmomas.de:4020?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=cw3LrGmQw06DWa3o5nRTZKzXjA2zPbRQ69FvKmv0nxg&sid=3bec2937ffa88b18#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Montreal%20%7C%20%E2%8F%B1885ms%20%7C%20%E2%9A%A1497KB%2Fs%20%7C%20%40NamazVPN
-vless://a3aa193c-59d8-443a-a8fa-4c627933b9a9@ger2.iranmomas.de:4020?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=cw3LrGmQw06DWa3o5nRTZKzXjA2zPbRQ69FvKmv0nxg&sid=3bec2937ffa88b18#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1446ms%20%7C%20%E2%9A%A11.2MB%2Fs%20%7C%20%40NamazVPN
-vless://4ce84bfe-8eda-4aa9-9a28-a91cbd1b59ad@panels2.airboxvip.top:4028?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Charlotte%20%7C%20%E2%8F%B1595ms%20%7C%20%E2%9A%A1464KB%2Fs%20%7C%20%40NamazVPN
