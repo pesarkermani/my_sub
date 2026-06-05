@@ -1,3 +1,4 @@
+http://203.175.103.39:3125#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Tasikmalaya%20%7C%20%E2%8F%B13731ms%20%7C%20%E2%9A%A1240KB%2Fs%20%7C%20%40NamazVPN
 http://203.146.80.235:8080#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20Udon%20Thani%20%7C%20%E2%8F%B11198ms%20%7C%20%E2%9A%A1291KB%2Fs%20%7C%20%40NamazVPN
 http://202.58.66.10:8181#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Wonogiri%20%7C%20%E2%8F%B17640ms%20%7C%20%E2%9A%A1103KB%2Fs%20%7C%20%40NamazVPN
 http://202.57.25.42:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Malang%20%7C%20%E2%8F%B11094ms%20%7C%20%E2%9A%A1331KB%2Fs%20%7C%20%40NamazVPN
@@ -497,4 +498,3 @@ vless://922cc495-8b9d-4c2d-9478-306a01579902@snapp.ir:80?path=%2F&security=none&
 vless://1da09875-d12a-443e-a5c2-766f6a422585@185.143.233.122:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1630ms%20%7C%20%E2%9A%A1734KB%2Fs%20%7C%20%40NamazVPN
 vless://95725d21-3c9d-4b06-a1da-a409ea55d95e@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1413ms%20%7C%20%E2%9A%A1893KB%2Fs%20%7C%20%40NamazVPN
 vless://c8a7a770-0761-4333-a3d3-e01494f8b6ba@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1408ms%20%7C%20%E2%9A%A1904KB%2Fs%20%7C%20%40NamazVPN
-vless://f8d2804c-5446-4f03-84b4-b4a085855ea3@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1408ms%20%7C%20%E2%9A%A1869KB%2Fs%20%7C%20%40NamazVPN
