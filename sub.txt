@@ -1,3 +1,7 @@
+http://3.99.158.157:54809#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%E2%8F%B11370ms%20%7C%20%E2%9A%A1387KB%2Fs%20%7C%20%40NamazVPN
+http://3.127.27.51:14070#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%E2%8F%B11883ms%20%7C%20%E2%9A%A1348KB%2Fs%20%7C%20%40NamazVPN
+http://3.137.167.45:1145#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%E2%8F%B11473ms%20%7C%20%E2%9A%A1177KB%2Fs%20%7C%20%40NamazVPN
+http://3.110.68.130:5247#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%E2%8F%B11649ms%20%7C%20%E2%9A%A1314KB%2Fs%20%7C%20%40NamazVPN
 http://27.79.138.0:8080#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Hanoi%20%7C%20%E2%8F%B11167ms%20%7C%20%E2%9A%A1202KB%2Fs%20%7C%20%40NamazVPN
 http://27.147.255.146:9108#%F0%9F%87%A7%F0%9F%87%A9%20Bangladesh%20Dhaka%20%7C%20%E2%8F%B11224ms%20%7C%20%E2%9A%A1192KB%2Fs%20%7C%20%40NamazVPN
 http://217.199.144.80:8080#%F0%9F%87%B0%F0%9F%87%AA%20Kenya%20Nairobi%20%7C%20%E2%8F%B16422ms%20%7C%20%E2%9A%A1104KB%2Fs%20%7C%20%40NamazVPN
@@ -494,7 +498,3 @@ vless://a090d787-a967-44d5-af77-e8319294ee3e@snapp.ir:8080?type=ws&security=none
 http://119.47.91.123:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Bekasi%20%7C%20%E2%8F%B13926ms%20%7C%20%E2%9A%A1172KB%2Fs%20%7C%20%40NamazVPN
 vless://f6860c67-5613-43f7-b549-221d9d27cb3c@198.251.79.150:40561?security=reality&encryption=none&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=62b6b234#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B1858ms%20%7C%20%E2%9A%A1526KB%2Fs%20%7C%20%40NamazVPN
 vless://f6860c67-5613-43f7-b549-221d9d27cb3c@198.251.79.150:40561?type=tcp&encryption=none&security=reality&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&fp=chrome&sni=www.icloud.com&sid=62b6b234&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B1853ms%20%7C%20%E2%9A%A1507KB%2Fs%20%7C%20%40NamazVPN
-vless://a3aa193c-59d8-443a-a8fa-4c627933b9a9@ca2.iranmomas.de:4020?security=reality&encryption=none&pbk=cw3LrGmQw06DWa3o5nRTZKzXjA2zPbRQ69FvKmv0nxg&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=3bec2937ffa88b18#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Montreal%20%7C%20%E2%8F%B1825ms%20%7C%20%E2%9A%A1555KB%2Fs%20%7C%20%40NamazVPN
-vless://eaf244bd-4de6-4fe1-ab16-74fb2addb395@62.60.146.35:53993/?type=tcp&encryption=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1379ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
-vless://ff1fc547-524d-47c7-a348-c2d8808b7eb1@tamin.ir:2052?path=%2F&security=none&encryption=none&host=big1.sedighi0915.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%E2%8F%B1555ms%20%7C%20%E2%9A%A1961KB%2Fs%20%7C%20%40NamazVPN
-vless://95725d21-3c9d-4b06-a1da-a409ea55d95e@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1451ms%20%7C%20%E2%9A%A1579KB%2Fs%20%7C%20%40NamazVPN
