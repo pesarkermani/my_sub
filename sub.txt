@@ -1,3 +1,5 @@
+http://45.129.141.143:3128#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%7C%20%E2%8F%B1471ms%20%7C%20%E2%9A%A1147KB%2Fs%20%7C%20%40NamazVPN
+http://43.251.205.146:8080#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20Bangkok%20%7C%20%E2%8F%B14760ms%20%7C%20%E2%9A%A188KB%2Fs%20%7C%20%40NamazVPN
 http://43.209.173.229:40379#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%E2%8F%B12170ms%20%7C%20%E2%9A%A1143KB%2Fs%20%7C%20%40NamazVPN
 http://43.208.237.116:35577#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Brandenburg%20an%20der%20Havel%20%7C%20%E2%8F%B15035ms%20%7C%20%E2%9A%A1281KB%2Fs%20%7C%20%40NamazVPN
 http://43.208.109.99:25002#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%E2%8F%B13967ms%20%7C%20%E2%9A%A1153KB%2Fs%20%7C%20%40NamazVPN
@@ -496,5 +498,3 @@ http://13.126.183.60:10101#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20
 vless://f5040423-a65f-483d-8a97-191be2864aba@51.89.117.237:443?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%E2%8F%B1340ms%20%7C%20%E2%9A%A11.2MB%2Fs%20%7C%20%40NamazVPN
 ss://YWVzLTI1Ni1nY206T1RGbE1HTmlOR0ZrTnpabE5qSTNPR1JrT1RFek4ySTJNVFkzTjJKbQ@188.121.101.127:10096#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Los%20Angeles%20%7C%20%E2%8F%B1683ms%20%7C%20%E2%9A%A1648KB%2Fs%20%7C%20%40NamazVPN
 http://128.199.121.61:9090#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Singapore%20%7C%20%E2%8F%B1945ms%20%7C%20%E2%9A%A1426KB%2Fs%20%7C%20%40NamazVPN
-trojan://ICVPNN@45.80.108.236:8443?path=%2Fapii&security=tls&insecure=0&host=ntlfy.letknow.shop&fp=random&type=ws&allowInsecure=0&sni=ntlfy.letknow.shop#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20Helsinki%20%7C%20%E2%8F%B11087ms%20%7C%20%E2%9A%A11.0MB%2Fs%20%7C%20%40NamazVPN
-vless://dddcd99b-fb16-45a2-93d6-e9f8ad2ba647@zed.unbeliever.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=zed.unbeliever.ir&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20City%20of%20London%20%7C%20%E2%8F%B1713ms%20%7C%20%E2%9A%A1713KB%2Fs%20%7C%20%40NamazVPN
