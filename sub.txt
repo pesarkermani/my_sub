@@ -1,3 +1,4 @@
+http://38.123.220.147:999#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20Jiquipilco%20%7C%20%E2%8F%B1948ms%20%7C%20%E2%9A%A1423KB%2Fs%20%7C%20%40NamazVPN
 http://37.187.109.70:10111#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%E2%8F%B11564ms%20%7C%20%E2%9A%A1548KB%2Fs%20%7C%20%40NamazVPN
 http://36.92.199.158:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Tangerang%20%7C%20%E2%8F%B13177ms%20%7C%20%E2%9A%A1250KB%2Fs%20%7C%20%40NamazVPN
 http://36.92.61.75:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Central%20Jakarta%20%7C%20%E2%8F%B12979ms%20%7C%20%E2%9A%A1197KB%2Fs%20%7C%20%40NamazVPN
@@ -497,4 +498,3 @@ vless://049f92ea-29a6-4170-905f-568e827ed295@89.42.137.218:8443?mode=auto&path=%
 vless://3e15040f-89f3-4f69-89b2-95dac4825834@de1.hypergate.shop:8443?security=reality&encryption=none&pbk=auXLHL11fPI8NuiBQSiZoL0h_zQE5BHjS5xsNTEchjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d16290c64205a717#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Alblasserdam%20%7C%20%E2%8F%B15622ms%20%7C%20%E2%9A%A191KB%2Fs%20%7C%20%40NamazVPN
 vless://5d88c9df-f913-43b2-bcf4-edee39aee6a4@Snapp.ir:80?path=%2F&security=none&encryption=none&host=ntr1.arr3.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%E2%8F%B11265ms%20%7C%20%E2%9A%A1237KB%2Fs%20%7C%20%40NamazVPN
 vless://a090d787-a967-44d5-af77-e8319294ee3e@snapp.ir:8080?path=%2F&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1434ms%20%7C%20%E2%9A%A1867KB%2Fs%20%7C%20%40NamazVPN
-vless://c835d8ab-5258-4073-9019-db4cc321c7fc@185.143.235.253:2082?security=none&type=ws&headerType=&path=%2FTV&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1405ms%20%7C%20%E2%9A%A1808KB%2Fs%20%7C%20%40NamazVPN
