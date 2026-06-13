@@ -1,3 +1,4 @@
+vless://8e78a949-f26b-48dd-94e3-4382cf583b3b@nl.farafile.com:8876?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=frSehQkhEXsc0CS52jd1EOXDGytGjP8YYGxAWRGltz4&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=efb839e3b1397162#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Oude%20Meer%20%7C%20%E2%8F%B11058ms%20%7C%20%E2%9A%A1678KB%2Fs%20%7C%20%40NamazVPN
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&type=ws&allowInsecure=0&sni=07e357aa7e747ca4.hOzHeEn.Ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B11465ms%20%7C%20%E2%9A%A1103KB%2Fs%20%7C%20%40NamazVPN
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@www.speedtest.net:2096?encryption=none&security=tls&sni=872ede3847653442.hozheen.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=com.hozheen.ir&path=%2Fws%3Fed#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B16539ms%20%7C%20%E2%9A%A1345KB%2Fs%20%7C%20%40NamazVPN
 vless://98803229-de94-477b-bfdb-a1a9abae1d3e@psf-1.zdshop.ir:80?path=%2F&security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20Helsinki%20%7C%20%E2%8F%B1614ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
@@ -497,4 +498,3 @@ http://103.189.197.79:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Kota%20Serang%
 http://103.188.173.95:8080#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Jakarta%20%7C%20%E2%8F%B16153ms%20%7C%20%E2%9A%A1136KB%2Fs%20%7C%20%40NamazVPN
 http://103.173.138.229:3125#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%E2%8F%B15323ms%20%7C%20%E2%9A%A1163KB%2Fs%20%7C%20%40NamazVPN
 http://103.166.33.51:3125#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%E2%8F%B12736ms%20%7C%20%E2%9A%A193KB%2Fs%20%7C%20%40NamazVPN
-http://103.162.30.78:33897#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Hanoi%20%7C%20%E2%8F%B11319ms%20%7C%20%E2%9A%A1341KB%2Fs%20%7C%20%40NamazVPN
