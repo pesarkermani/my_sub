@@ -1,3 +1,8 @@
+vless://6de3a5f8-b226-4da8-bfe3-d7bf0e5e7ed2@162.19.209.216:80?mode=auto&path=%2F&security=reality&encryption=none&pbk=LJrnLxZCWQzQRa3TX_zgPna31YOp8S0jTYa53pG3oEo&host=www.google.com&fp=chrome&spx=%2FFVa7X0q5YZDmKWU&type=xhttp&sni=www.google.com&sid=4c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%E2%8F%B1422ms%20%7C%20%E2%9A%A1326KB%2Fs%20%7C%20%40NamazVPN
+vless://d01c0340-2e90-459f-8fb4-a02e39a8adbc@162.19.209.216:443?security=reality&encryption=none&pbk=usQRr6D6_LrL1Ik9vFLlUUCXhM9OyfSXMC8LxCiVHx0&headerType=none&fp=chrome&spx=%2FD6yypXWVML95mWi&type=tcp&sni=www.google.com&sid=85c7894f7e#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%E2%8F%B1416ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
+ss://YWVzLTI1Ni1nY206Tldaa01UZzVOVEl5WXpobFl6ZG1OREE0TXpobU5tRmxOR05oWWpFMg@37.32.15.249:9122#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20Vienna%20%7C%20%E2%8F%B1317ms%20%7C%20%E2%9A%A12.0MB%2Fs%20%7C%20%40NamazVPN
+vless://999bd2f6-a001-4013-9652-ce7cab8a3ddc@87.199.195.191:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=I4mX3_v_BOUAHA06CQxNEn13NgjuTmN-DWzOy1182lc&security=reality&sid=2ed28a1e&sni=www.icloud.com&spx=%2F97taOq8bFpzhAor&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Amsterdam%20%7C%20%E2%8F%B1392ms%20%7C%20%E2%9A%A11.2MB%2Fs%20%7C%20%40NamazVPN
+vless://80f0417f-5c78-47e3-a847-54d6e0771171@f.mmrknight.app:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%E2%8F%B1521ms%20%7C%20%E2%9A%A1960KB%2Fs%20%7C%20%40NamazVPN
 vless://ZoRoVPN@203.202.232.11:36068?encryption=none&type=ws&path=%2FZoRoVpn&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Istanbul%20%7C%20%E2%8F%B1628ms%20%7C%20%E2%9A%A1951KB%2Fs%20%7C%20%40NamazVPN
 vless://3228b0ea-5421-4199-a099-f06b49602052@panel.riziro.ir:40445?security=reality&encryption=none&pbk=jVpsWb-3_iQnbkIJQOcYNdJ6udbsUovFUJKF84S30ls&headerType=none&fp=chrome&spx=%2FrszcjPVfajBcdyX&type=tcp&sni=www.speedtest.net&sid=79959769da3461#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1406ms%20%7C%20%E2%9A%A1569KB%2Fs%20%7C%20%40NamazVPN
 hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?security=tls&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv&insecure=0&sni=ger1.riziro.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B11047ms%20%7C%20%E2%9A%A11.5MB%2Fs%20%7C%20%40NamazVPN
@@ -493,8 +498,3 @@ http://116.80.79.128:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%E2%8F%B12433
 http://116.80.78.71:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%E2%8F%B12414ms%20%7C%20%E2%9A%A1232KB%2Fs%20%7C%20%40NamazVPN
 http://116.80.63.159:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shinjuku%20%7C%20%E2%8F%B12412ms%20%7C%20%E2%9A%A1187KB%2Fs%20%7C%20%40NamazVPN
 http://116.80.64.3:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%E2%8F%B12410ms%20%7C%20%E2%9A%A1195KB%2Fs%20%7C%20%40NamazVPN
-http://116.80.63.162:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shinjuku%20%7C%20%E2%8F%B12409ms%20%7C%20%E2%9A%A1190KB%2Fs%20%7C%20%40NamazVPN
-http://116.80.63.47:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shinjuku%20%7C%20%E2%8F%B12405ms%20%7C%20%E2%9A%A1138KB%2Fs%20%7C%20%40NamazVPN
-http://116.80.63.164:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shinjuku%20%7C%20%E2%8F%B12390ms%20%7C%20%E2%9A%A1138KB%2Fs%20%7C%20%40NamazVPN
-http://116.80.66.25:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%E2%8F%B12365ms%20%7C%20%E2%9A%A1185KB%2Fs%20%7C%20%40NamazVPN
-http://116.80.64.171:3172#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%E2%8F%B12361ms%20%7C%20%E2%9A%A1184KB%2Fs%20%7C%20%40NamazVPN
