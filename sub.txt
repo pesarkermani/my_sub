@@ -1,3 +1,4 @@
+http://52.188.28.218:3128#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Washington%20%7C%20%E2%8F%B1743ms%20%7C%20%E2%9A%A1512KB%2Fs%20%7C%20%40NamazVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2FmN2JiMDUzNTY0OTlkYmQ4YTg1MTZjMjFiNTczMw@trkx.hostiokio.my:49155?type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Istanbul%20%7C%20%E2%8F%B1797ms%20%7C%20%E2%9A%A1921KB%2Fs%20%7C%20%40NamazVPN
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.51:443?type=tcp&security=reality&sni=eh.vk.ru&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sid=&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20Moscow%20%7C%20%E2%8F%B1648ms%20%7C%20%E2%9A%A11.0MB%2Fs%20%7C%20%40NamazVPN
 http://49.48.110.175:8080#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20Khon%20Kaen%20%7C%20%E2%8F%B11216ms%20%7C%20%E2%9A%A1334KB%2Fs%20%7C%20%40NamazVPN
@@ -497,4 +498,3 @@ vless://d8d34555-2fa7-4914-aac9-0ada7f662ec0@91.107.133.103:52235?security=&encr
 vless://ec5d2af0-cb65-4311-a80c-b09ab1be79b3@91.107.133.103:52235?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B15463ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
 vless://a6afcc30-de7f-431f-867b-619a92d3eaa7@91.107.133.103:52235?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1359ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
 vless://77fab82a-7989-45ad-ae62-117395aacfbe@91.107.133.103:52235?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1356ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
-vless://5599cf65-2818-4e2b-922d-341e6666bf0f@91.107.133.103:52235?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B1355ms%20%7C%20%E2%9A%A11007KB%2Fs%20%7C%20%40NamazVPN
